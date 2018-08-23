@@ -1,0 +1,9 @@
+Package: com.subdiox.ufjpatch
+Name: UFJ Patch
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Anti Jailbreak Detection for Mitsubishi UFJ
+Maintainer: subdiox
+Author: subdiox
+Section: Tweaks
